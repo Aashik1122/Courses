@@ -1,7 +1,7 @@
 # Courses
 - INFO-6109
-- COMP-6200
-- DATA-6305
+- INFO-6110
+- INFO-6136
 
 
 
